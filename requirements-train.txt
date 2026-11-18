@@ -1,0 +1,4 @@
+# Training pipeline and tests: pip install -r requirements-train.txt
+-r requirements.txt
+scikit-learn==1.9.1
+pytest>=8.0
